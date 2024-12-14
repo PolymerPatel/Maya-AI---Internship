@@ -1,0 +1,15 @@
+Twilio Auth 
+SID: PRIVATE
+Secret Key: PRIVATE
+
+
+Open AI Auth: Key: PRIVATE
+
+
+
+Webhook to POST response to: https://hooks.zapier.com/hooks/catch/2904810/b5zbgda/
+ - Send PARAMATERS
+   - FROM, TO, RESPONSE BODY, ORIGINALQUERY
+   
+   
+   Twilio Number: TALK TO YOUR CHIP VIA (650) 397-7059
