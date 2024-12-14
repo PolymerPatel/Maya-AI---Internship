@@ -20,7 +20,7 @@ def bot():
     return str(r)
 
 
-#chatbot.py
+#chatbot.py (second repo from Maya)
 
 import os
 from dotenv import load_dotenv
