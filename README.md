@@ -1,4 +1,4 @@
-### Click Here for a demo
+# Click Here for a Demo
 
 # Maya AI
 
