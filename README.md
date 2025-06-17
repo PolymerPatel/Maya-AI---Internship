@@ -1,5 +1,3 @@
-# Click Here for a Demo
-
 # Maya AI
 
 An intelligent voice assistant designed to reduce administrative burden through natural language interactions.
